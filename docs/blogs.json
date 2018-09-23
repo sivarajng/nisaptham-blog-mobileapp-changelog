@@ -1,11 +1,18 @@
-{"blogs":[
-         {"url":"http://thiruttusavi.blogspot.in","title":"மின்னற் பொழுதே தூரம்"},
-          {"url":"http://thulasidhalam.blogspot.in","title":"துளசி தளம்"},
-          {"url":"http://poorvakaveri.blogspot.in","title":"பூர்வ காவேரி"},
-          {"url":"https://www.luckylookonline.com","title":"யுவகிருஷ்ணா"},
-          {"url":"http://maaruthal.blogspot.com","title":"கசியும் மௌனம்"}
-                
-         
-         
-         
-         ]}
+{
+  "blogs": [
+    { "url": "http://thiruttusavi.blogspot.in", "title": "மின்னற் பொழுதே தூரம்" },
+    { "url": "http://thulasidhalam.blogspot.in", "title": "துளசி தளம்" },
+    { "url": "http://poorvakaveri.blogspot.in", "title": "பூர்வ காவேரி" },
+    { "url": "https://www.luckylookonline.com", "title": "யுவகிருஷ்ணா" },
+    { "url": "http://maaruthal.blogspot.com", "title": "கசியும் மௌனம்" },
+
+    { "url": "http://thoyyil.blogspot.com", "title": "ஜீவ.கரிகாலன்" },
+    { "url": "http://kadugu-agasthian.blogspot.com", "title": "கடுகு தாளிப்பு" },
+    { "url": "http://avargal-unmaigal.blogspot.com", "title": "அவர்கள் உண்மைகள்" },
+    { "url": "http://valpaiyan.blogspot.com", "title": "வால்பையன்" },
+    { "url": "http://kalaiy.blogspot.com", "title": "கலையகம்" },
+    { "url": "http://muelangovan.blogspot.com", "title": "முனைவர் மு.இளங்கோவன் - Dr. Mu. Elangovan" },
+    { "url": "http://www.masusila.com", "title": "எம்.ஏ.சுசீலா" },
+    { "url": "http://enpoems.blogspot.com", "title": "பட்டைய கிளப்புவோம், வாங்க!" }
+  ]
+}
