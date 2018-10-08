@@ -1,5 +1,16 @@
 {
   "blogs": [
+       { "url": "http://veeduthirumbal.blogspot.com", "title": "வீடு திரும்பல்" },
+       { "url": "http://drbjambulingam.blogspot.com", "title": "முனைவர் ஜம்புலிங்கம்" },
+       { "url": "http://ramaniecuvellore.blogspot.com", "title": "ஒரு ஊழியனின் குரல்" },
+       { "url": "http://ponnibuddha.blogspot.com", "title": "சோழ நாட்டில் பௌத்தம் " },
+       { "url": "http://killergee.blogspot.com", "title": "பூவை பறிக்க கோடரி எதற்கு...?" },
+       { "url": "http://sivamgss.blogspot.com", "title": "எண்ணங்கள்" },
+       { "url": "http://classroom2007.blogspot.com", "title": "வகுப்பறை" },
+       { "url": "http://naachiyaar.blogspot.com", "title": "நாச்சியார்" },
+       { "url": "https://kadavulinkadavul.blogspot.com", "title": "கடவுளின் கடவுள்!!!" },
+       { "url": "http://venkatnagaraj.blogspot.com", "title": "சந்தித்ததும் சிந்தித்ததும்" },
+    
     { "url": "http://thiruttusavi.blogspot.in", "title": "மின்னற் பொழுதே தூரம்" },
     { "url": "http://thulasidhalam.blogspot.in", "title": "துளசி தளம்" },
     { "url": "http://poorvakaveri.blogspot.in", "title": "பூர்வ காவேரி" },
@@ -21,6 +32,8 @@
     { "url": "http://veltharma.blogspot.com", "title": "வேல் தர்மா" },
     { "url": "http://valipokken.blogspot.com", "title": "வலிப்போக்கன்" },
     { "url": "http://thanjavur14.blogspot.com", "title": "தஞ்சையம்பதி" }
+    
+     
 
       
     
